@@ -1,2 +1,4 @@
 dgghsnwmrbkwjt    yyy
 tjkwtmwwv
+
+we save our file permanently then we add that file into staging area
